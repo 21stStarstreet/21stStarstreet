@@ -64,4 +64,5 @@ Projelerim zamanla daha **ürün odaklı** ve **kullanıma hazır** hâle getiri
 
 - LinkedIn: https://www.linkedin.com/in/mustafa-tıraş-327461315/
 - E-posta: nutreonstudio@gmail.com
+- Kişisel E-posta: tirasmustafa033@gmail.com
 - Proje ve iş birliği görüşmeleri için LinkedIn üzerinden iletişime geçebilirsiniz
