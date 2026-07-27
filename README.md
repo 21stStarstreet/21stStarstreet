@@ -1,26 +1,28 @@
-<h1 align="center">Merhaba, Ben Mustafa Tıraş 👋</h1>
-<h3 align="center">Full-Stack Web, Mobil ve Masaüstü Yazılım Geliştiricisi</h3>
+<h1 align="center">Hi, I'm Mustafa Tıraş 👋</h1>
+<h3 align="center">Full-Stack Web, Mobile & Desktop Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafatiras&label=Profil+Goruntulenme+Sayisi&color=0e75b6&style=flat" alt="Profil Görüntülenme" />
+  <img src="https://komarev.com/ghpvc/?username=mustafatiras&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 About Me
 
-Farklı platformlar için yenilikçi, performanslı ve sürdürülebilir yazılımlar geliştiriyorum. Sadece kod yazmakla kalmıyor; problemi anlayan, kullanıcı deneyimini merkeze alan ve mimarisi güçlü **uçtan uca çözümler** üretiyorum. 
+I develop innovative, high-performance, and maintainable software solutions across multiple platforms. Beyond writing code, I focus on understanding real-world problems, delivering excellent user experiences, and building scalable end-to-end software architectures.
 
-- 🖥️ **Masaüstü Geliştirme:** C# ve .NET ekosistemini (WinForms vb.) kullanarak güçlü, şirket içi otomasyonlar ve iş odaklı Windows masaüstü uygulamaları geliştiriyorum.
-- 📱 **Mobil & Oyun Geliştirme:** Flutter ve Dart kullanarak hem iOS/Android için Native mobil uygulamalar hem de mobil oyunlar tasarlıyorum.
-- 🌐 **Web Geliştirme:** React, JavaScript, HTML ve CSS kullanarak hem statik vitrin siteleri hem de veri odaklı dinamik web platformları (SaaS) inşa ediyorum.
-- 🌱 **Felsefem:** Gereksinimleri doğru analiz et, basit düşün, temiz ve okunabilir kod yaz (Clean Code).
+- 🖥️ **Desktop Development:** Building powerful Windows desktop applications, business tools, and internal automation systems using C# and the .NET ecosystem (WinForms, etc.).
+- 📱 **Mobile & Game Development:** Developing cross-platform mobile applications and mobile games for iOS and Android using Flutter and Dart.
+- 🌐 Backend Development: Developing RESTful APIs and backend services with ASP.NET Core, Entity Framework Core, and JWT-based authentication.
+- 🌐 **Web Development:** Creating modern static websites and dynamic, data-driven SaaS platforms with React, JavaScript, HTML, and CSS.
+- 🌱 **Philosophy:** Understand requirements, keep solutions simple, and write clean, maintainable code.
 
 ---
 
-## 🛠️ Teknik Yetkinliklerim
+## 🛠️ Technical Skills
 
-### Diller (Languages)
+### Languages
+
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -32,15 +34,18 @@ Farklı platformlar için yenilikçi, performanslı ve sürdürülebilir yazıl�
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### Frameworks & Kütüphaneler
+### Frameworks & Libraries
+
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/WinForms-00599C?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
 </p>
 
-### Araçlar (Tools)
+### Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -51,27 +56,27 @@ Farklı platformlar için yenilikçi, performanslı ve sürdürülebilir yazıl�
 
 ---
 
-## GitHub İstatistiklerim
+## 📊 GitHub Statistics
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/21stStarstreet/21stStarstreet/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/21stStarstreet/21stStarstreet/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/21stStarstreet/21stStarstreet/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/21stStarstreet/21stStarstreet/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 ---
 
-## 📬 İletişim
+## 📬 Contact
 
-Proje, iş birliği ve danışmanlık görüşmeleri için bana her zaman ulaşabilirsiniz:
+Feel free to reach out for collaborations, freelance opportunities, or consulting.
 
 <p>
   <a href="https://www.linkedin.com/in/mustafa-tıraş-327461315/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contact@mustafatiras.com">
-    <img src="https://img.shields.io/badge/Kişisel_E--posta-00599C?style=for-the-badge&logo=gmail&logoColor=white" alt="Kişisel Mail" />
+    <img src="https://img.shields.io/badge/Personal_Email-00599C?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
   </a>
 </p>
