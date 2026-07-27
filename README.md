@@ -71,10 +71,7 @@ Proje, iş birliği ve danışmanlık görüşmeleri için bana her zaman ulaşa
   <a href="https://www.linkedin.com/in/mustafa-tıraş-327461315/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nutreonstudio@gmail.com">
-    <img src="https://img.shields.io/badge/İş_E--postası-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="İş Maili" />
-  </a>
-  <a href="mailto:tirasmustafa033@gmail.com">
+  <a href="mailto:contact@mustafatiras.com">
     <img src="https://img.shields.io/badge/Kişisel_E--posta-00599C?style=for-the-badge&logo=gmail&logoColor=white" alt="Kişisel Mail" />
   </a>
 </p>
