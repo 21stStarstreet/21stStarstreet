@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mustafa Tıraş 👋</h1>
-<h3 align="center">Full-Stack Web, Mobile & Desktop Software Developer</h3>
+<h3 align="center">Full-Stack Web, Backend, Mobile & Desktop Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mustafatiras&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
